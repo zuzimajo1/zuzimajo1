@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://app.netlify.com/teams/zuzimajo1/overview?_ga=2.203394513.1106555964.1647443620-104243663.1626072228" color="#87ceeb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg" alt="netlify" height="30" width="40" /></a>
+<a href="https://app.netlify.com/teams/zuzimajo1/overview?_ga=2.203394513.1106555964.1647443620-104243663.1626072228" style="color:#87ceeb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg" alt="netlify" height="30" width="40" /></a>
 <a href="https://dashboard.heroku.com/apps" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/heroku.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/zuzim-ajo-3567a9210/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 
