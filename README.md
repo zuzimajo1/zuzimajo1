@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Full-Stack Web Developer</h3>
 
 - 📖 I’m currently studying at **Surigao State College of Technology**
-
+- 💻 I'm currently learning **MERN Stack and also building projects for my Porfolio**
 - 📫 Send me a message in my email address **ajozuzim@gmail.com**
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L5iCpBsEJN3E59BbxU/giphy.gif">
